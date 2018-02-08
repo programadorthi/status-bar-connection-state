@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Status Bar Loading</string>
+    <string name="connecting">Connecting&#8230;</string>
+</resources>
